@@ -17,11 +17,13 @@ Please write a program which will translate lines of Morse code into readable En
 Sample Input
 ------------
 -..|---|--.
+
 ….|.|.-..|.-..|---||.--|---|.-.|.-..|-..
 
 Sample Output
 -------------
 dog
+
 hello world
 
 The Fine Print
