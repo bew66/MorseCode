@@ -11,14 +11,14 @@ Please write a program which will translate lines of Morse code into readable En
 2. Each new line will contain a string of Morse code. The characters used will be:
 	1.	. = dot
 	2.	\- = dash
-	3.	| = break
+	3.	|| = break
 3. Output the English text for each line
 
 Sample Input
 ------------
--..|---|--.
+-..||---||--.
 
-….|.|.-..|.-..|---||.--|---|.-.|.-..|-..
+….||.||.-..||.-..||---||||.--||---||.-.||.-..||-..
 
 Sample Output
 -------------
